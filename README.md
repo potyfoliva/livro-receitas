@@ -3,4 +3,5 @@
 Olá, bem vindo ao meu livro de receitas  :happy: :happy:
 
 - Bolo de cenoura
+- Panquecas
 
